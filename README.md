@@ -3,10 +3,12 @@
 These are the collection of my Data Analysis Projects
 
 What is Data Analytics?
+
 Data analytics, also known as data analysis, is the process of cleaning, inspecting, modelling, and transforming data for finding valuable information, informing conclusions and enhancing the decision-making process. 
 Data analytics focuses on using data to generate insights while machine learning focuses on creating and training algorithms through data so they can function independently. 
 
 Steps involved in Data Analysis:
+
 1.  DATA WRANGLING : Data wrangling, sometimes referred to as data munging, or Data Pre-Processing, is the process of gathering, assessing, and cleaning of “raw” data into a form suitable for analysis
         Data Wrangling has 3 sub-steps�
         1. Gathering of data
