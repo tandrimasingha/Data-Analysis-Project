@@ -26,7 +26,7 @@ Steps involved in Data Analysis:
 | Serial No. | Project Name | Goal of the Project | Link |
 | :-: | :-: | :-: | :-: |
 | 01 | EDA on Terrorism Dataset | Data Analysis and Data Visualization on Terrorism Dataset. | [Click Here](https://github.com/tandrimasingha/Data-Analysis-Project/blob/main/Task1-Exploratory%20data%20Analysis%20on%20Terrorism%20(1).ipynb) |
-| 02 | Uber Data Analysis | Data Analysis and Data Visualization on Uber Dataset. | [Click Here](/MNIST%20Dataset%20Classification) |
+| 02 | Uber Data Analysis | Data Analysis and Data Visualization on Uber Dataset. | [Click Here](https://github.com/tandrimasingha/Data-Analysis-Project/blob/main/UBER_DATA_ANALYSIS.ipynb) |
 | 03 | Udemy Courses Data Analysis | Data Analysis and Data Visualization on Udemy Courses Dataset. | [Click Here](/Character%20Recognition)|
 | 04 |  | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
 | 05 |  | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
