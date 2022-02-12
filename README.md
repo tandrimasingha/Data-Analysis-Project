@@ -25,9 +25,9 @@ Steps involved in Data Analysis:
 ***********************************************************
 | Serial No. | Project Name | Goal of the Project | Link |
 | :-: | :-: | :-: | :-: |
-| 01 | Credit Card Fraud Detection | The main aim of the project is to make a model that helps to predict credit card fraud based on the given dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |
-| 02 | MNIST Dataset Classification | Implement a machine learning classification algorithm on image to recognize handwritten digits from a paper. | [Click Here](/MNIST%20Dataset%20Classification) |
-| 03 | Character Recognition | Implement character recognition in natural languages. Character recognition is the process of automatically identifying characters from written papers or printed texts. | [Click Here](/Character%20Recognition)|
-| 04 | Height and Weight Prediction | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
-| 05 | Fake News Detection | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
+| 01 | EDA on Terrorism Dataset | Data Analysis and Data Visualization on Terrorism Dataset. | [Click Here](/Credit%20Card%20Fraud%20Detection) |
+| 02 | Uber Data Analysis | Data Analysis and Data Visualization on Uber Dataset. | [Click Here](/MNIST%20Dataset%20Classification) |
+| 03 | Udemy Courses Data Analysis | Data Analysis and Data Visualization on Udemy Courses Dataset. | [Click Here](/Character%20Recognition)|
+| 04 |  | Build a predictive model for determining height or weight of a person. Implement a linear regression model that will be used for predicting height or weight. | [Click Here](/Height%20and%20Weight%20Prediction)
+| 05 |  | Build a fake news detection model with Passive Aggressive Classifier algorithm. The Passive Aggressive algorithm can classify massive streams of data, it can be implemented quickly. | [Click Here](/Fake%20News%20Detection)|
         
